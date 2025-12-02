@@ -40,5 +40,5 @@ Future<void> init() async {
     ),
   );
 
-  timeago.setLocaleMessages('id', timeago.IdMessages());
+  timeago.setLocaleMessages('en', timeago.EnMessages());
 }

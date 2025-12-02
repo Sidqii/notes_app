@@ -42,23 +42,27 @@ class _PageEditNoteState extends State<PageEditNote> {
         behavior: HitTestBehavior.translucent,
         onTap: () => FocusScope.of(context).unfocus(),
 
-        child: Padding(
-          padding: const EdgeInsets.symmetric(horizontal: 22),
-          child: Column(
-            children: [
-              Expanded(
-                child: SingleChildScrollView(
-                  keyboardDismissBehavior:
-                      ScrollViewKeyboardDismissBehavior.onDrag,
-                  child: ContentEditNote(
+        child: Column(
+          children: [
+            Expanded(
+              child: ListView(
+                physics: AlwaysScrollableScrollPhysics(),
+                padding: const EdgeInsets.symmetric(horizontal: 22),
+                keyboardDismissBehavior:
+                    ScrollViewKeyboardDismissBehavior.onDrag,
+                children: [
+                  ContentEditNote(
                     date: widget.note.timestamp,
                     titleController: titleController,
                     contentController: contentController,
                   ),
-                ),
+                ],
               ),
+            ),
 
-              SizedBox(
+            Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
+              child: SizedBox(
                 width: double.infinity,
                 child: BtnUpdateNote(
                   note: widget.note,
@@ -66,10 +70,8 @@ class _PageEditNoteState extends State<PageEditNote> {
                   contentController: contentController,
                 ),
               ),
-
-              const SizedBox(height: 5),
-            ],
-          ),
+            ),
+          ],
         ),
       ),
     );

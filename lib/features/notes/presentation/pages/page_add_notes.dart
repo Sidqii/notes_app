@@ -31,31 +31,37 @@ class _PageAddNotesState extends State<PageAddNotes> {
         behavior: HitTestBehavior.translucent,
         onTap: () => FocusScope.of(context).unfocus(),
 
-        child: Padding(
-          padding: const EdgeInsets.symmetric(horizontal: 15, vertical: 5),
-
-          child: Column(
-            children: [
-              Expanded(
-                child: SingleChildScrollView(
-                  keyboardDismissBehavior:
-                      ScrollViewKeyboardDismissBehavior.onDrag,
-                  child: ContentCreateNote(
+        child: Column(
+          children: [
+            Expanded(
+              child: ListView(
+                physics: ClampingScrollPhysics(),
+                padding: const EdgeInsets.symmetric(
+                  horizontal: 15,
+                  vertical: 5,
+                ),
+                keyboardDismissBehavior:
+                    ScrollViewKeyboardDismissBehavior.onDrag,
+                children: [
+                  ContentCreateNote(
                     titleController: titleController,
                     contentController: contentController,
                   ),
-                ),
+                ],
               ),
+            ),
 
-              SizedBox(
+            Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
+              child: SizedBox(
                 width: double.infinity,
                 child: BtnCreateNote(
                   titleController: titleController,
                   contentController: contentController,
                 ),
               ),
-            ],
-          ),
+            ),
+          ],
         ),
       ),
     );

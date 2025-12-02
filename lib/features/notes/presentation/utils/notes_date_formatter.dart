@@ -2,7 +2,7 @@ import 'package:intl/intl.dart';
 import 'package:timeago/timeago.dart' as timeago;
 
 String notesDateFormatter(DateTime time) {
-  return timeago.format(time, locale: 'id');
+  return timeago.format(time, locale: 'en');
 }
 
 String notesFormalFormatter(DateTime time) {
