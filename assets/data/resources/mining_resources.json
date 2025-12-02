@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Iron Ore",
+        "unlock_level": 24,
+        "source": "Mining",
+        "note": "Used to smelt Iron Bars"
+    },
+    {
+        "name": "Gold Ore",
+        "unlock_level": 24,
+        "source": "Mining",
+        "note": "Used to smelt Gold Bars"
+    },
+    {
+        "name": "Silver Ore",
+        "unlock_level": 24,
+        "source": "Mining",
+        "note": "Used to smelt Silver Bars"
+    },
+    {
+        "name": "Platinum Ore",
+        "unlock_level": 24,
+        "source": "Mining",
+        "note": "Used to smelt Platinum Bars"
+    },
+    {
+        "name": "Coal",
+        "unlock_level": 24,
+        "source": "Mining",
+        "note": "Required for every smelting recipe"
+    }
+]

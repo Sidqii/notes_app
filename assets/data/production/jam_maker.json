@@ -1,0 +1,46 @@
+[
+    {
+        "product": "Raspberry Jam",
+        "unlock_level": 35,
+        "time_minutes": 18000,
+        "ingredients": [
+            {
+                "item": "Raspberry",
+                "quantity": 3
+            }
+        ]
+    },
+    {
+        "product": "Apple Jam",
+        "unlock_level": 35,
+        "time_minutes": 21600,
+        "ingredients": [
+            {
+                "item": "Apple",
+                "quantity": 3
+            }
+        ]
+    },
+    {
+        "product": "Blackberry Jam",
+        "unlock_level": 36,
+        "time_minutes": 25200,
+        "ingredients": [
+            {
+                "item": "Blackberry",
+                "quantity": 3
+            }
+        ]
+    },
+    {
+        "product": "Cherry Jam",
+        "unlock_level": 37,
+        "time_minutes": 21600,
+        "ingredients": [
+            {
+                "item": "Cherry",
+                "quantity": 3
+            }
+        ]
+    }
+]

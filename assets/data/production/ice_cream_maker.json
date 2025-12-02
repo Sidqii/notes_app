@@ -1,0 +1,82 @@
+[
+    {
+        "product": "Vanilla Ice Cream",
+        "unlock_level": 29,
+        "time_minutes": 5400,
+        "ingredients": [
+            {
+                "item": "Cream",
+                "quantity": 1
+            },
+            {
+                "item": "Milk",
+                "quantity": 1
+            },
+            {
+                "item": "White Sugar",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "product": "Cherry Popsicle",
+        "unlock_level": 33,
+        "time_minutes": 7200,
+        "ingredients": [
+            {
+                "item": "Cherry Juice",
+                "quantity": 1
+            },
+            {
+                "item": "Syrup",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "product": "Strawberry Ice Cream",
+        "unlock_level": 39,
+        "time_minutes": 9000,
+        "ingredients": [
+            {
+                "item": "Cream",
+                "quantity": 1
+            },
+            {
+                "item": "Milk",
+                "quantity": 1
+            },
+            {
+                "item": "White Sugar",
+                "quantity": 1
+            },
+            {
+                "item": "Strawberry",
+                "quantity": 3
+            }
+        ]
+    },
+    {
+        "product": "Chocolate Ice Cream",
+        "unlock_level": 39,
+        "time_minutes": 9000,
+        "ingredients": [
+            {
+                "item": "Cocoa",
+                "quantity": 2
+            },
+            {
+                "item": "Cream",
+                "quantity": 1
+            },
+            {
+                "item": "Milk",
+                "quantity": 1
+            },
+            {
+                "item": "White Sugar",
+                "quantity": 1
+            }
+        ]
+    }
+]

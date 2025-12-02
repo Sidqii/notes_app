@@ -1,0 +1,57 @@
+[
+    {
+        "product": "Silver Bar",
+        "unlock_level": 24,
+        "time_minutes": 7200,
+        "ingredients": [
+            {
+                "item": "Silver Ore",
+                "quantity": 3
+            }
+        ]
+    },
+    {
+        "product": "Gold Bar",
+        "unlock_level": 24,
+        "time_minutes": 10800,
+        "ingredients": [
+            {
+                "item": "Gold Ore",
+                "quantity": 3
+            }
+        ]
+    },
+    {
+        "product": "Platinum Bar",
+        "unlock_level": 24,
+        "time_minutes": 14400,
+        "ingredients": [
+            {
+                "item": "Platinum Ore",
+                "quantity": 3
+            }
+        ]
+    },
+    {
+        "product": "Refined Coal",
+        "unlock_level": 34,
+        "time_minutes": 3600,
+        "ingredients": [
+            {
+                "item": "Coal",
+                "quantity": 3
+            }
+        ]
+    },
+    {
+        "product": "Iron Bar",
+        "unlock_level": 34,
+        "time_minutes": 3600,
+        "ingredients": [
+            {
+                "item": "Coal",
+                "quantity": 3
+            }
+        ]
+    }
+]

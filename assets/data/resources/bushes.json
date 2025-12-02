@@ -1,0 +1,27 @@
+[
+    {
+        "bushes_name": "Raspberry Bush",
+        "unlock_level": 19,
+        "grow_per_minute": 960
+    },
+    {
+        "bushes_name": "Blueberry Bush",
+        "unlock_level": 21,
+        "grow_per_minute": 960
+    },
+    {
+        "bushes_name": "Blackberry Bush",
+        "unlock_level": 26,
+        "grow_per_minute": 960
+    },
+    {
+        "bushes_name": "Nectar Bush",
+        "unlock_level": 29,
+        "grow_per_minute": 480
+    },
+    {
+        "bushes_name": "Coffee Bush",
+        "unlock_level": 42,
+        "grow_per_minute": 1440
+    }
+]

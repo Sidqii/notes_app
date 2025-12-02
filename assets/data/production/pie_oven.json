@@ -1,0 +1,166 @@
+[
+    {
+        "product": "Bacon Pie",
+        "unlock_level": 16,
+        "time_minutes": 5400,
+        "ingredients": [
+            {
+                "item": "Egg",
+                "quantity": 1
+            },
+            {
+                "item": "Bacon",
+                "quantity": 3
+            },
+            {
+                "item": "Wheat",
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "product": "Carrot Pie",
+        "unlock_level": 18,
+        "time_minutes": 3600,
+        "ingredients": [
+            {
+                "item": "Carrot",
+                "quantity": 3
+            },
+            {
+                "item": "Egg",
+                "quantity": 1
+            },
+            {
+                "item": "Wheat",
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "product": "Apple Pie",
+        "unlock_level": 20,
+        "time_minutes": 3600,
+        "ingredients": [
+            {
+                "item": "Apple",
+                "quantity": 3
+            },
+            {
+                "item": "Egg",
+                "quantity": 1
+            },
+            {
+                "item": "Wheat",
+                "quantity": 2
+            },
+            {
+                "item": "Syrup",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "product": "Pumpkin Pie",
+        "unlock_level": 22,
+        "time_minutes": 7200,
+        "ingredients": [
+            {
+                "item": "Pumpkin",
+                "quantity": 3
+            },
+            {
+                "item": "Egg",
+                "quantity": 1
+            },
+            {
+                "item": "Wheat",
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "product": "Fish Pie",
+        "unlock_level": 28,
+        "time_minutes": 10800,
+        "ingredients": [
+            {
+                "item": "Fish Fillet",
+                "quantity": 3
+            },
+            {
+                "item": "Egg",
+                "quantity": 1
+            },
+            {
+                "item": "Wheat",
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "product": "Feta Pie",
+        "unlock_level": 32,
+        "time_minutes": 4500,
+        "ingredients": [
+            {
+                "item": "Feta Cheese",
+                "quantity": 1
+            },
+            {
+                "item": "Egg",
+                "quantity": 1
+            },
+            {
+                "item": "Wheat",
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "product": "Casserole",
+        "unlock_level": 36,
+        "time_minutes": 7200,
+        "ingredients": [
+            {
+                "item": "Potato",
+                "quantity": 2
+            },
+            {
+                "item": "Egg",
+                "quantity": 2
+            },
+            {
+                "item": "Bacon",
+                "quantity": 2
+            },
+            {
+                "item": "Cheese",
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "product": "Shepherd's Pie",
+        "unlock_level": 39,
+        "time_minutes": 6000,
+        "ingredients": [
+            {
+                "item": "Potato",
+                "quantity": 2
+            },
+            {
+                "item": "Carrot",
+                "quantity": 2
+            },
+            {
+                "item": "Bacon",
+                "quantity": 2
+            },
+            {
+                "item": "Pumpkin",
+                "quantity": 2
+            }
+        ]
+    }
+]

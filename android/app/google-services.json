@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935339201562",
+    "project_id": "my-porto-app",
+    "storage_bucket": "my-porto-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935339201562:android:ba68640e0abbab793ceda3",
+        "android_client_info": {
+          "package_name": "com.example.note_pad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv2G__48DiQ-OAd1m3n-HpKtJbcOA9q-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

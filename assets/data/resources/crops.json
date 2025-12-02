@@ -1,0 +1,62 @@
+[
+    {
+        "crops_name": "Wheat",
+        "unlock_level": 1,
+        "grow_per_minute": 2
+    },
+    {
+        "crops_name": "Corn",
+        "unlock_level": 2,
+        "grow_per_minute": 5
+    },
+    {
+        "crops_name": "Soybean",
+        "unlock_level": 5,
+        "grow_per_minute": 20
+    },
+    {
+        "crops_name": "Sugarcane",
+        "unlock_level": 7,
+        "grow_per_minute": 30
+    },
+    {
+        "crops_name": "Carrot",
+        "unlock_level": 9,
+        "grow_per_minute": 10
+    },
+    {
+        "crops_name": "Indigo",
+        "unlock_level": 13,
+        "grow_per_minute": 120
+    },
+    {
+        "crops_name": "Pumpkin",
+        "unlock_level": 15,
+        "grow_per_minute": 180
+    },
+    {
+        "crops_name": "Cotton",
+        "unlock_level": 18,
+        "grow_per_minute": 120
+    },
+    {
+        "crops_name": "Chilli Pepper",
+        "unlock_level": 25,
+        "grow_per_minute": 120
+    },
+    {
+        "crops_name": "Tomato",
+        "unlock_level": 30,
+        "grow_per_minute": 360
+    },
+    {
+        "crops_name": "Strawberry",
+        "unlock_level": 34,
+        "grow_per_minute": 480
+    },
+    {
+        "crops_name": "Potato",
+        "unlock_level": 35,
+        "grow_per_minute": 220
+    }
+]

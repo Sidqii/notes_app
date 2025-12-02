@@ -1,0 +1,61 @@
+[
+    {
+        "product": "Carrot Juice",
+        "unlock_level": 26,
+        "time_minutes": 2100,
+        "ingredients": [
+            {
+                "item": "Carrot",
+                "quantity": 3
+            }
+        ]
+    },
+    {
+        "product": "Apple Juice",
+        "unlock_level": 28,
+        "time_minutes": 4500,
+        "ingredients": [
+            {
+                "item": "Apple",
+                "quantity": 5
+            }
+        ]
+    },
+    {
+        "product": "Cherry Juice",
+        "unlock_level": 31,
+        "time_minutes": 7200,
+        "ingredients": [
+            {
+                "item": "Cherry",
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "product": "Tomato Juice",
+        "unlock_level": 33,
+        "time_minutes": 2700,
+        "ingredients": [
+            {
+                "item": "Tomato",
+                "quantity": 3
+            }
+        ]
+    },
+    {
+        "product": "Berry Juice",
+        "unlock_level": 38,
+        "time_minutes": 8100,
+        "ingredients": [
+            {
+                "item": "Raspberry",
+                "quantity": 2
+            },
+            {
+                "item": "Blueberry",
+                "quantity": 1
+            }
+        ]
+    }
+]

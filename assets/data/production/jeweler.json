@@ -1,0 +1,74 @@
+[
+    {
+        "product": "Bracelet",
+        "unlock_level": 38,
+        "time_minutes": 720,
+        "ingredients": [
+            {
+                "item": "Silver Bar",
+                "quantity": 2
+            },
+            {
+                "item": "Gold Bar",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "product": "Necklace",
+        "unlock_level": 39,
+        "time_minutes": 960,
+        "ingredients": [
+            {
+                "item": "Silver Bar",
+                "quantity": 2
+            },
+            {
+                "item": "Gold Bar",
+                "quantity": 1
+            },
+            {
+                "item": "Platinum Bar",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "product": "Diamond Ring",
+        "unlock_level": 40,
+        "time_minutes": 1200,
+        "ingredients": [
+            {
+                "item": "Gold Bar",
+                "quantity": 2
+            },
+            {
+                "item": "Platinum Bar",
+                "quantity": 2
+            },
+            {
+                "item": "Diamond",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "product": "Iron Bracelet",
+        "unlock_level": 41,
+        "time_minutes": 1440,
+        "ingredients": [
+            {
+                "item": "Iron Bar",
+                "quantity": 2
+            },
+            {
+                "item": "Refined Coal",
+                "quantity": 2
+            },
+            {
+                "item": "Silver Bar",
+                "quantity": 1
+            }
+        ]
+    }
+]
